@@ -18,7 +18,7 @@ public class CalculatorTest {
 
     }
 
-
+    // simple comment on subtract test
     @Test
     public void subtractTest(){
         Calculator myCalculator = new Calculator();
